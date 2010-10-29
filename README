@@ -1,0 +1,12 @@
+ =========
+ = SETUP =
+ =========
+
+  - Install a Jabber server
+      $ brew install ejabberd
+  - Add several users to your jabber server.
+      $ TODO
+  - install fortune
+      $ brew install fortune
+
+
